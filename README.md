@@ -60,7 +60,7 @@ Plot titles
 ![Bar Plot](bar_plot.png)
 
 ## Box Plots
-![Box Plots](box_plots.png)
+![Box Plots](box_plot.png)
 
 
 
